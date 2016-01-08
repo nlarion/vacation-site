@@ -110,18 +110,14 @@
     background-color: #ffffff;
     opacity: 0.7;
     filter: alpha(opacity=60); /* For IE8 and earlier */
-    padding: 10px;
+    padding: 8%;
 }
 
-.transbox p, h2, h3{
-  margin: 5%;
+.wildlifeText p, h2, h3{
+  margin: 20px;
   font-weight: bold;
   color: #383838;
-  text-shadow: 1px 1px black;
-}
-
-.fishing {
-  background-image: url(../images/fish.jpg);
+  
 }
 
 .fishing {
@@ -130,4 +126,88 @@
 
 .activities  h1 , h4 {
   padding: 15px;
+}
+
+.wildlifeText p {
+  padding-left: 50px;
+  font-size: 18px;
+  text-align: justify;
+  font-weight: bold;
+  font-family: sans-serif;
+  text-shadow: 0.5px 0.5px #000;
+  color: black;
+ 
+
+}
+
+.wildlifeText h2{
+  margin: 20px;
+  text-shadow: 1px 1px #000;
+
+
+}
+
+.wildlifeText h3{
+  margin: 20px;
+  text-shadow: 1px 1px #000;
+
+
+}
+
+
+.hikingText p {
+  padding-left: 50px;
+  font-size: 18px;
+  text-align: justify;
+  font-weight: bold;
+  font-family: sans-serif;
+  text-shadow: 0.5px 0.5px #000;
+  color: black;
+ 
+
+}
+
+.hikingText h2 {
+  margin: 20px;
+  text-shadow: 1px 1px #000;
+
+
+}
+
+.hikingText h3 {
+  margin: 20px;
+  text-shadow: 1px 1px #000;
+
+
+}
+
+.fishingText p {
+  padding-left: 50px;
+  font-size: 18px;
+  text-align: justify;
+  font-weight: bold;
+  font-family: sans-serif;
+  text-shadow: 0.5px 0.5px #000;
+  color: black;
+ 
+
+}
+
+.fishingText h2 {
+  margin: 20px;
+  text-shadow: 1px 1px #000;
+
+
+}
+
+.fishingText h3 {
+  margin: 20px;
+  text-shadow: 1px 1px #000;
+
+
+}
+
+.fancy {
+  font-style: italic;
+  color: #000;
 }
